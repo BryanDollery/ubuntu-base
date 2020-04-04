@@ -1,4 +1,5 @@
-https://dockerbuildbadges.quelltext.eu/status.svg?organization=bryandollery&repository=ubuntu-base
+[![](https://dockerbuildbadges.quelltext.eu/status.svg?organization=bryandollery&repository=ubuntu-base)](https://hub.docker.com/r/bryandollery/ubuntu-base/builds/)  
+
 
 # What?
 
